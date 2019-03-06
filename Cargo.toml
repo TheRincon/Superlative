@@ -1,0 +1,12 @@
+[package]
+name = "superlative"
+version = "0.1.0"
+authors = ["Rincon Rex <rinconrex@gmail.com>"]
+
+[dependencies]
+image = "*"
+rand = "*"
+imageproc = "*"
+docopt = "1"
+serde = "1.0"
+serde_derive = "1.0"
